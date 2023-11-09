@@ -14,3 +14,7 @@ See everything in writeup.
 - BERT_cur.ipynb: predicts  MONTHLY RETURN
 
 ## SARIMA file contains the data preprocessing and modeling for SARIMA. 
+
+## Scraped Data Files: contains stock price data from Yahoo finance
+- price_data.csv: (2020-2023)
+- price_data2000.csv: (2000-2023)

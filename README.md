@@ -18,3 +18,5 @@ See everything in writeup.
 ## Scraped Data Files: contains stock price data from Yahoo finance
 - price_data.csv: (2020-2023)
 - price_data2000.csv: (2000-2023)
+
+## The Ensemble file is for furture work. 

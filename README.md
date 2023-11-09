@@ -3,7 +3,7 @@
 # Stock Returns Prediction Data Science Project
 
 ## Project Overview
-See everything in writeup. 
+See everything in writeup: lazard.pdf. 
 
 ## LSTM files contains LSTM models for comparisons. 
 ## Each file contains 2 tasks (this/next month) and 2 traning modes(sep/agg)
